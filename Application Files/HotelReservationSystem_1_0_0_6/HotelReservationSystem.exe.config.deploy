@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<connectionStrings>
+		<add name="HotelDB"
+			 connectionString="Data Source=DESKTOP-V2B5SHA;Initial Catalog=HotelReservationDB;Integrated Security=True;Encrypt=False"
+			 providerName="System.Data.SqlClient" />
+	</connectionStrings>
+</configuration>
